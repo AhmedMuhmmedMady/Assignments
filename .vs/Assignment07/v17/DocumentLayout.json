@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\FullStackCourse\\Back-End  ( Route )\\Assignments\\C Sharp\\Assignment07\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3349025-3A55-466C-A9D4-A7069E0AEF5F}|Assignment07\\Assignment07.csproj|f:\\fullstackcourse\\back-end  ( route )\\assignments\\c sharp\\assignment07\\assignment07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3349025-3A55-466C-A9D4-A7069E0AEF5F}|Assignment07\\Assignment07.csproj|solutionrelative:assignment07\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c9c0ae26-aa77-11d2-b3f0-0000f87570ee}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\FullStackCourse\\Back-End  ( Route )\\Assignments\\C Sharp\\Assignment07\\Assignment07\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment07\\Program.cs",
+              "ToolTip": "F:\\FullStackCourse\\Back-End  ( Route )\\Assignments\\C Sharp\\Assignment07\\Assignment07\\Program.cs",
+              "RelativeToolTip": "Assignment07\\Program.cs",
+              "ViewState": "AgIAAMYAAACA9v/////3v6kAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T11:35:13.159Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
