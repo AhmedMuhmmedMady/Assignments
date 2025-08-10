@@ -1,0 +1,14 @@
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\bin\Debug\net9.0\Assignment08.exe
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\bin\Debug\net9.0\Assignment08.deps.json
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\bin\Debug\net9.0\Assignment08.runtimeconfig.json
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\bin\Debug\net9.0\Assignment08.dll
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\bin\Debug\net9.0\Assignment08.pdb
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\Assignment08.GeneratedMSBuildEditorConfig.editorconfig
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\Assignment08.AssemblyInfoInputs.cache
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\Assignment08.AssemblyInfo.cs
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\Assignment08.csproj.CoreCompileInputs.cache
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\Assignment08.dll
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\refint\Assignment08.dll
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\Assignment08.pdb
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\Assignment08.genruntimeconfig.cache
+F:\FullStackCourse\Back-End  ( Route )\Assignments\C Sharp\Assignment08\Assignment08\obj\Debug\net9.0\ref\Assignment08.dll
